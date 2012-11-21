@@ -1,0 +1,5 @@
+name = Culinary
+description = Theme Culinary de freecesstemplates.
+core = 7.x
+version = 7.x-dev
+engine = phptemplate
